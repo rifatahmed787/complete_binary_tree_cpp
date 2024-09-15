@@ -34,7 +34,7 @@ public:
 int main()
 {
     priority_queue<Student, 
-    vector<Student>, ma
+    vector<Student>, 
     cmp> pq;
     int n;
     cin >> n;
